@@ -1,3 +1,4 @@
+# THIS IS A CODE FOR CREATEING A DATASET AND TABLE IN BIGQUERY BY USING PYTHON.
 from google.cloud import bigquery
 
 client = bigquery.Client()
